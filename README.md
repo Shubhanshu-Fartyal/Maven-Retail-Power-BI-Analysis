@@ -10,11 +10,13 @@ The objective was to transform and model the data, create DAX measures, and buil
 
 https://github.com/Shubhanshu-Fartyal/maven-retail-analytics-sql
 
+
 **Part 2 : Maven Retail Dashboard Excel** 
 
 https://github.com/Shubhanshu-Fartyal/maven-retail-dashboard-excel
 
-> **Part 3 of the Maven Retail End-to-End Analytics Project**
+
+**This is Part 3 of the Maven Retail End-to-End Analytics Project**
 
 This repository focuses specifically on the **Business Intelligence and dashboarding stage** of the larger analytics project.
 
