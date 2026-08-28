@@ -19,7 +19,7 @@ SUM(Sales[Revenue])
 
 Calculates total sales revenue.
 
-### 2. Total Revenue
+### 2. Total Profit
 
 ```
 Total Profit =
