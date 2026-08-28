@@ -16,9 +16,9 @@ https://github.com/Shubhanshu-Fartyal/maven-retail-analytics-sql
 https://github.com/Shubhanshu-Fartyal/maven-retail-dashboard-excel
 
 
-**This is Part 3 of the Maven Retail End-to-End Analytics Project**
-
-This repository focuses specifically on the **Business Intelligence and dashboarding stage** of the larger analytics project.
+>**This is Part 3 of the Maven Retail End-to-End Analytics Project**
+>
+>This repository focuses specifically on the **Business Intelligence and dashboarding stage** of the larger analytics project.
 
 ---
 
