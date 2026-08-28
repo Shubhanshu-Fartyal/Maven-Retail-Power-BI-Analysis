@@ -91,7 +91,6 @@ Key analysis includes:
 
 - **Source:** Maven Analytics Data Playground
 - **Domain:** Global Electronics Retail
-- **Database:** PostgreSQL
 - **Dataset Type:** Relational (Star Schema)
 
 **Data Source:** https://mavenanalytics.io/data-playground/global-electronics-retailer
@@ -104,6 +103,7 @@ Key analysis includes:
 | Customers | Customer information |
 | Products | Product catalog |
 | Stores | Store information |
+| Dim_Date | Stores date information |
 | Exchange_Rates | Daily currency exchange rates |
 
 ---
