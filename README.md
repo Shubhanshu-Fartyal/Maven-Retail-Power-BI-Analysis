@@ -106,7 +106,7 @@ Key analysis includes:
 | Dim_Date | Stores date information |
 | Exchange_Rates | Daily currency exchange rates |
 
-<img width="882" height="506" alt="Screenshot 2026-08-28 163001" src="https://github.com/user-attachments/assets/38714439-10a5-4699-8468-de10d7b1a250" />
+<img width="663" height="470" alt="Screenshot 2026-08-28 163534" src="https://github.com/user-attachments/assets/43feed31-ce40-444b-b1e7-32c39cbc4747" />
 ---
 
 ## Data Transformation
