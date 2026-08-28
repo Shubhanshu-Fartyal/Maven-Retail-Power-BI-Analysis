@@ -89,17 +89,22 @@ Key analysis includes:
 
 ## Dataset
 
-The project uses the **Global Electronics Retailer dataset** from Maven Analytics.
+- **Source:** Maven Analytics Data Playground
+- **Domain:** Global Electronics Retail
+- **Database:** PostgreSQL
+- **Dataset Type:** Relational (Star Schema)
 
-The dataset contains transactional and dimensional data related to:
+**Data Source:** https://mavenanalytics.io/data-playground/global-electronics-retailer
 
-- Sales transactions
-- Customers
-- Products
-- Stores
-- Exchange rates
+### Tables Used
 
-The original dataset follows a relational structure consisting of a central sales table and supporting dimension tables.
+| Table | Description |
+|-------|-------------|
+| Sales | Transactional sales data (Fact Table) |
+| Customers | Customer information |
+| Products | Product catalog |
+| Stores | Store information |
+| Exchange_Rates | Daily currency exchange rates |
 
 ---
 
