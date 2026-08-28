@@ -1,10 +1,16 @@
-# Maven Retail Power BI Analysis
+# Maven Retail Dashboard Power BI
 
 ## Project Overview
 
 This project analyzes sales data from a global electronics retailer using **Microsoft Power BI**.
 
 The objective was to transform and model the data, create DAX measures, and build interactive dashboards that answer key business questions related to revenue, profitability, product performance, customer behavior, and store performance.
+
+**Part 1 :** 
+https://github.com/Shubhanshu-Fartyal/maven-retail-analytics-sql
+
+**Part 2 :**
+https://github.com/Shubhanshu-Fartyal/maven-retail-dashboard-excel
 
 > **Part 3 of the Maven Retail End-to-End Analytics Project**
 
@@ -185,7 +191,7 @@ Examples include:
 ## Project Structure
 
 ```text
-Maven-Retail-Power-BI-Analysis/
+Maven-Retail-Dashboard-PowerBI/
 │
 ├── dashboard/
 │   ├── executive_overview.png
