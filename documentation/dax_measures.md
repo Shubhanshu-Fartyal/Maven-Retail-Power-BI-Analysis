@@ -10,7 +10,7 @@ The measures are based primarily on the **Sales** table and respond dynamically 
 
 ## Core Sales Measures
 
-### Total Revenue
+### 1. Total Revenue
 
 ```
 Total Revenue =
@@ -19,7 +19,7 @@ SUM(Sales[Revenue])
 
 Calculates total sales revenue.
 
-### Total Revenue
+### 2. Total Revenue
 
 ```
 Total Profit =
@@ -28,7 +28,7 @@ SUM(Sales[Profit])
 
 Calculates total profit generated from sales.
 
-### Total Orders
+### 3. Total Orders
 
 ```
 Total Orders =
@@ -37,7 +37,7 @@ DISTINCTCOUNT(Sales[Order Number])
 
 Counts unique orders rather than individual transaction rows.
 
-### Total Customers
+### 4. Total Customers
 
 ```
 Total Customers =
@@ -46,7 +46,7 @@ DISTINCTCOUNT(Sales[CustomerKey])
 
 Counts the number of unique customers.
 
-### Total Quantity
+### 5. Total Quantity
 
 ```
 Total Quantity =
@@ -57,7 +57,7 @@ Calculates the total number of units sold.
 
 ## Profitability Measures
 
-### Profit Margin %
+### 1. Profit Margin %
 
 ```
 Profit Margin % =
@@ -66,7 +66,7 @@ DIVIDE([Total Profit], [Total Revenue])
 
 Calculates profit as a percentage of revenue.
 
-### Profit per Order
+### 2. Profit per Order
 
 ```
 Profit per Order =
@@ -77,7 +77,7 @@ Calculates the average profit generated per order.
 
 ## Product Measures
 
-### Average Selling Price
+### 1. Average Selling Price
 
 ```
 Average Selling Price =
@@ -86,7 +86,7 @@ DIVIDE([Total Revenue], [Total Quantity])
 
 Calculates the average revenue generated per unit sold.
 
-### Total Products Sold
+### 2. Total Products Sold
 
 ```
 Total Products Sold =
@@ -97,7 +97,7 @@ Calculates the number of distinct products appearing in the sales data.
 
 ## Customer Measures
 
-### Revenue per Customer
+### 1. Revenue per Customer
 
 ```
 Revenue per Customer =
@@ -106,7 +106,7 @@ DIVIDE([Total Revenue], [Total Customers])
 
 Calculates the average revenue generated per customer.
 
-### Orders per Customer
+### 2. Orders per Customer
 
 ```
 Orders per Customer =
@@ -115,7 +115,7 @@ DIVIDE([Total Orders], [Total Customers])
 
 Calculates the average number of orders placed per customer.
 
-### Average Order Value
+### 3. Average Order Value
 
 ```
 Average Order Value =
@@ -126,7 +126,7 @@ Calculates the average revenue generated per order.
 
 ##Store Measures
 
-### Online Revenue %
+### 4. Online Revenue %
 
 ```
 Online Revenue % =
@@ -141,7 +141,7 @@ DIVIDE(
 
 Calculates the percentage of revenue attributed to the online channel.
 
-### Physical Revenue %
+### 5. Physical Revenue %
 
 ```
 Physical Revenue % =
