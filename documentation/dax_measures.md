@@ -160,9 +160,9 @@ Calculates the percentage of revenue attributed to physical stores.
 
 The project uses several commonly used DAX functions:
 
-SUM
-DISTINCTCOUNT
-DIVIDE
-CALCULATE
+* SUM
+* DISTINCTCOUNT
+* DIVIDE
+* CALCULATE
 
 These measures were used to create KPI cards, charts, tables, and other interactive dashboard visuals.
