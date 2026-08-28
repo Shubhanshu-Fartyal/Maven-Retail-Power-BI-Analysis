@@ -12,13 +12,15 @@ The measures are based primarily on the **Sales** table and respond dynamically 
 
 ### Total Revenue
 
-```DAX
+```
 Total Revenue =
 SUM(Sales[Revenue])
+```
 
 Calculates total sales revenue.
 
-Total Profit
+**### Total Revenue**
+
 Total Profit =
 SUM(Sales[Profit])
 
