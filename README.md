@@ -75,15 +75,15 @@ Key analysis includes:
 
 ### Executive Overview
 
-![Executive Overview](dashboard/executive_overview.png)
+<img width="1123" height="631" alt="Screenshot 2026-08-23 181512" src="https://github.com/user-attachments/assets/3f3bb68e-1181-40a7-b486-026fcbe8952a" />
 
 ### Product Performance Analysis
 
-![Product Performance Analysis](dashboard/product_performance_analysis.png)
+<img width="1124" height="637" alt="Screenshot 2026-08-23 181359" src="https://github.com/user-attachments/assets/7c2c9c5f-063e-45cd-9bec-8a6e13f0c28f" />
 
 ### Customer & Store Insights
 
-![Customer and Store Insights](dashboard/customer_store_insights.png)
+<img width="1121" height="632" alt="Screenshot 2026-08-23 181221" src="https://github.com/user-attachments/assets/da0600cc-b06d-4560-9d0f-431ee1fee264" />
 
 ---
 
